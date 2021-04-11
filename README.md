@@ -13,11 +13,29 @@ In light of the omission of records from Thomas High School, we have provided th
 
 4) Impact on scores by grade: Since the only data omitted from our analysis was from 9th grade, the impact to our scores by grade analysis was limited. THS still performed well relative to the rest of the district.
 
-5) Scores by school spending:
+5) Scores by school spending: THS falls into the second highest category for per-capita spending ($638 per pupil). In removing the 9th grade data, we saw a marginal decline in passing rates accross the board. I'm intentionally including the unformatted version of both tables to highlight how de minimis the change was:
 
-6) Scores by school size:
+### Original 
+<img width="737" alt="Original THS" src="https://user-images.githubusercontent.com/80016496/114313849-e10aa600-9abd-11eb-8f5b-2ad08a219874.png">
 
-7) scores by school type:
+### Revised 
+<img width="742" alt="THS Revised" src="https://user-images.githubusercontent.com/80016496/114313897-13b49e80-9abe-11eb-902a-a3d3519a4618.png">
 
+6) Scores by school size: THS falls into the "Medium" Size of schools. We saw a similar insiginifcant impact with the omission of 9th grade data
 
-Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+### Original
+<img width="694" alt="THS Original Size" src="https://user-images.githubusercontent.com/80016496/114314079-da306300-9abe-11eb-8fc0-e8ac9fd45acc.png">
+
+### Revised
+<img width="703" alt="Revised Size" src="https://user-images.githubusercontent.com/80016496/114314089-e0264400-9abe-11eb-9ed7-4a19c3c80114.png">
+
+7) Scores by school type: THS is a Charter school. See below for comparative rates for our original analysis and revised analysis. Again, I am intentially including the unformatted version to highlight the deminimis impact on passing rates.
+
+### Original
+<img width="657" alt="Original Charter" src="https://user-images.githubusercontent.com/80016496/114314184-4743f880-9abf-11eb-96ee-1ff93ddeb551.png">
+
+### Revised
+<img width="637" alt="Revised Charter" src="https://user-images.githubusercontent.com/80016496/114314190-4dd27000-9abf-11eb-844a-7df662e9c59c.png">
+
+## Significant Changes Arising From our Revised Analysis
+Despite the omission of 9th grade statistics, the school continued to perform well against their peer group on a relative basis. The Largest impact is the reduction of 461 student records, which imapcted THS' individual passing statistics for Math, Reading and overall. The impacts on the overall district wide statics were de minimis, ultimately only resulting in changes of a few basis points. While the academic impropriety is troubeling and may be symptomatic of a wider culture issue at THS, the school still performs very well as compared to the wider district. 
